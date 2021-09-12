@@ -53,7 +53,7 @@ Console 을 통해서 랜덤 값을 주는 컴퓨터와 진행하는 묵찌빠 �
 
 - **2021.03.02 (화)**
 
-  팀원들과 git message 템플릿 생성, [git commit convention]() 정함
+  팀원들과 git message 템플릿 생성, [git commit convention](https://github.com/kane-young/rock-paper-scissors/blob/main/CommitConvention.md) 정함
 
   `RockPaperScissors ` 클래스 청사진 그리기, `RockPaperScissors` 클래스 내에 가위 바위 보 구현
 
@@ -93,7 +93,7 @@ Console 을 통해서 랜덤 값을 주는 컴퓨터와 진행하는 묵찌빠 �
 
 ### git commit 컨벤션 및 템플릿
 
-[git commit convention]() 
+[git commit convention](https://github.com/kane-young/rock-paper-scissors/blob/main/CommitConvention.md) 
 
 템플릿 참고 자료)
 
