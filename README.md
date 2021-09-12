@@ -18,9 +18,10 @@ Console 을 통해서 랜덤 값을 주는 컴퓨터와 진행하는 묵찌빠 �
 
 - 일반화 추상화 개념 학습
 - mutating 키워드 학습
+- CaseIterable Protocol
+- Comparable Protocol
 
 <br>
-
 <br>
 
 ### Flow Chart
